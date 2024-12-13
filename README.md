@@ -2,7 +2,8 @@
 
 This repository contains the implementation of our research paper titled:
 
-**"A Novel Methodology for Improving Face Recognition Systems by Integrating Data Cleaning Techniques and Explainable AI (XAI) Methods"**
+**Implementing Explainable AI in Dataset Cleaning
+for Face Recognition Models**
 
 ## Overview
 
